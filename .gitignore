@@ -6,7 +6,7 @@ __pycache__/
 *.json
 
 format_not_repo.ipynb
-"List of agents.txt"
+List_of_agents.txt
 
 #Except
 !bc_final.zip
