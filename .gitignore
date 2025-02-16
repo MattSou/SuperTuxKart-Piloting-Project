@@ -13,6 +13,7 @@ List_of_agents.txt
 !ppo_final.zip
 !example_dataset.json
 !example_log.json
+!rendu_final.zip
 
 # C extensions
 *.so
