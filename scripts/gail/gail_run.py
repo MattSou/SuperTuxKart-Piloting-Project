@@ -3,14 +3,10 @@ import json
 from pystk2_gymnasium import AgentSpec
 from functools import partial
 import torch
-import inspect
-from bbrl.agents.gymnasium import ParallelGymAgent, make_env
+from bbrl.agents.gymnasium import make_env
 from pystk2_gymnasium.stk_wrappers import PolarObservations, ConstantSizedObservations, OnlyContinuousActionsWrapper, DiscreteActionsWrapper
 
 import numpy as np
-import gymnasium as gym
-import torch.nn as nn
-from torch.nn import functional as F
 import numpy as np
 from argparse import ArgumentParser
 

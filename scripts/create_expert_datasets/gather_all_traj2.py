@@ -2,7 +2,6 @@ from os import path
 import os
 import subprocess
 import argparse
-from tqdm import tqdm
 import json
 parser = argparse.ArgumentParser()
 

@@ -1,0 +1,14 @@
+bbrl
+bbrl_gymnasium
+bbrl_utils
+gymnasium
+master_dac
+numpy
+omegaconf
+pystk2-gymnasium
+PySuperTuxKart2
+swig
+torch
+torchaudio
+torchvision
+tqdm
